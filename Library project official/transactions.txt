@@ -1,0 +1,11 @@
+reader1,ISBN9781938998867,borrow,2025-04-13,2025-04-27
+reader1,ISBN9781938998867,return,2025-04-13,onTime
+reader1,ISBN12345,borrow,2025-04-13,2025-04-27
+reader1,ISBN12345,borrow,2025-04-13,2025-04-27
+reader1,ISBN190,borrow,2025-04-13,2025-04-27
+reader1,ISBN190,return,2025-04-13,onTime
+reader1,ISBN12345,borrow,2025-04-14,2025-04-28
+reader1,ISBN190,borrow,2025-04-14,2025-04-28
+reader1,ISBN190,return,2025-04-14,onTime
+Tinh,jjjjjj,borrow,2025-04-14,2025-04-28
+Tinh,ggggg,return,2025-04-14,onTime

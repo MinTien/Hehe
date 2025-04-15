@@ -1,0 +1,10 @@
+Ebook,Introduction,Thomas,CP,ISBN65464985,false,pdf
+Ebook,Introduction,Thomas,CP,ISBN281,false,word
+Printed,Hello,nnn,Comic,ISBN788,true,100
+Printed,Harry Potter,Joanne Rowling,Novel,ISBN9786041016613,true,100
+Printed,Clean Code,Robert C. Martin,Programming,ISBN9786041016613,true,464
+Printed,Thinking in Java,Bruce Eckel,Programming,ISBN9780131401183,true,1150
+Printed,I see Yellow Flowers on the Green Grass,Nguyen Nhat Anh,Novel,ISBN9781938998867,true,210
+Printed,The Great Gatsby,F. Scott Fitzgerald,Fiction,ISBN9780743273565,true,180
+Printed,A,B,C,ISBN12345,false,100
+Printed,JP,hh,hu,ISBN190,true,40

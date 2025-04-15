@@ -1,0 +1,7 @@
+A,Le Minh Hoang,admin1,@admin1
+L,Nguyen Van A,librarian1,@librarian1
+R,Vo Phan Minh Tien,reader1,@reader1
+L,Vo Minh Tien,Tientochay,12345
+R,Nguyen Cam Tien,TienTien,00000
+R,Nguyen Nguyen,Tinh,102202
+L,Du Du,Du,2020
